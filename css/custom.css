@@ -1,0 +1,17 @@
+/* 
+
+1. Add your custom Css styles below
+2. Place the this code in your template: 
+
+ <link href="css/custom.css" rel="stylesheet">
+
+*/
+
+.devicon {
+    color: #565656;
+    font-size: 7em;
+}
+
+.devicon:hover {
+    color: #0dbe0d;
+}
